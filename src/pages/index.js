@@ -33,7 +33,7 @@ import { stats, springPromo } from 'data.json'
 // import Announcement from 'components/home/Announcement'
 import DefineCard from '../components/home/DefineCard'
 import FeaturedServices from 'components/home/FeaturedServices'
-import Testimonials from 'components/home/Testimonials'
+// import Testimonials from 'components/home/Testimonials'
 import SpringPromo from '../components/home/SpringPromo';
 import GalleryModal from '../components/home/GalleryModal';
 
