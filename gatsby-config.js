@@ -2,6 +2,8 @@
 module.exports = {
   siteMetadata: {
     title: 'Ardorem Technologies',
+    description: '',
+    author: 'Victor Solis',
     siteUrl: 'https://ardorem.tech'
   },
   plugins: [
