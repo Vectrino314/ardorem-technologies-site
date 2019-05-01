@@ -36,6 +36,7 @@ import FeaturedServices from 'components/home/FeaturedServices'
 // import Testimonials from 'components/home/Testimonials'
 import SpringPromo from '../components/home/SpringPromo';
 import GalleryModal from '../components/home/GalleryModal';
+import SEO from '../components/seo';
 
 const cta = {
   chevronRight: true,
@@ -251,26 +252,28 @@ const Base = styled(Box.section).attrs({ bg: 'dark', color: 'gray.3' })``
 
 const title = 'Ardorem Technologies'
 const description =
-  'Get your business up and running.'
+  'Ardorem is a tech startup geared to solving unique cases in the world with a strong resolve to quality and the passion to make a difference'
 
 export default () => (
   <Layout>
     <Helmet
-      title={title}
-      meta={[
-        { name: 'twitter:title', content: title },
-        { name: 'description', content: description },
-        { name: 'twitter:description', content: description },
-        { property: 'og:title', content: title },
-        { property: 'og:description', content: description },
-        { property: 'og:url', content: 'https://ardorem.tech/' }
-      ]}>
+      // title={title}
+      // meta={[
+      //   { name: 'twitter:title', content: title },
+      //   { name: 'description', content: description },
+      //   { name: 'twitter:description', content: description },
+      //   { property: 'og:title', content: title },
+      //   { property: 'og:description', content: description },
+      //   { property: 'og:url', content: 'https://ardorem.tech/' }
+      // ]}>
+      >
 
       <meta
         name="google-site-verification"
         content="3xGXMbJ90-8ZjOGo6yoDSBaII5FtidqzCFVnIm3w3kk"
       />
     </Helmet>
+    <SEO title={title} description={description} keywords={[`website`, `website builder`, `make me a webiste`, `business`]} />
     <Nav color="black" />
     <Promo>
       <Container maxWidth={72} px={3} py={[5, 6]}>
