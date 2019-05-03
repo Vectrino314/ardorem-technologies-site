@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "name": "liberty-park-capital",
+  "description": null,
+  "icons": {
+    "60": "/icons-fd477fda3a36c3d47f88ca9f0ec87420/firefox_app_60x60.png",
+    "128": "/icons-fd477fda3a36c3d47f88ca9f0ec87420/firefox_app_128x128.png",
+    "512": "/icons-fd477fda3a36c3d47f88ca9f0ec87420/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": null,
+    "url": null
+  }
+}
