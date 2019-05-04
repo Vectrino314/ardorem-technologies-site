@@ -1,3 +1,5 @@
+import React from 'react'
+
 export default () => (
     <html>
         <script src="proposalFiles/cover.php"></script>
