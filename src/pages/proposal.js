@@ -11,7 +11,7 @@ export default () => (
         <meta name="robots" content="noindex, nofollow" />
         <meta name="viewport" content="width=device-width, initial-scale =1.0, user-scalable =no" />
         <link href='https://betterproposals.io/proposal/custom.css' rel='stylesheet' type='text/css' />
-        <iframe src="http://www.example.com/" width="600" height="400"></iframe>
+        {/* <iframe src="http://www.example.com/" width="600" height="400"></iframe> */}
     </Helmet>
 
     <div>
