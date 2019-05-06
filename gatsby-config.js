@@ -19,6 +19,14 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/content/proposal`,
+        name: 'proposal'
+      }
+    },
+
+    {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
         siteUrl: 'https://ardorem.tech'
