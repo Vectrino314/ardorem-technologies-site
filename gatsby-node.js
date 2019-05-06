@@ -16,13 +16,13 @@ exports.createPages = ({ actions, graphql }) => {
   let redirectBatch2 = [
     { f: `/proposal/success.php`, t: `/success` },
     { f: `/soda`, t: `/` },
-    { f: `/donut`, t: page2Path },
+    { f: `/donut`, t: `` },
     { f: `/randorect`, t: `` },
   ]
 
   redirectBatch2.forEach(({ f, t }) => {
     if (t === ``) {
-      t = page2Path
+      t = `/`
     }
     createRedirect({
       fromPath: f,
