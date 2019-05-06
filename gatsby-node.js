@@ -14,7 +14,7 @@ exports.createPages = ({ actions, graphql }) => {
   // and
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
   let redirectBatch2 = [
-    { f: `/proposal/success.php`, t: `/success` },
+    { f: `/proposal/success.php`, t: `/proposal` },
     { f: `/soda`, t: `/` },
     { f: `/donut`, t: `` },
     { f: `/randorect`, t: `` },
