@@ -4,7 +4,7 @@ import Helmet from 'react-helmet'
 export default () => (
 
     <div>
-        <Helmet defaultTitle={title}>
+        <Helmet defaultTitle="Proposal">
         <html lang="en" />
         <meta charSet="UTF-8" />
         <meta charset="utf-8" />
