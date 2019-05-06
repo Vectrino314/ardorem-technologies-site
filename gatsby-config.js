@@ -13,6 +13,12 @@ module.exports = {
     'gatsby-plugin-styled-components',
     'gatsby-transformer-json',
     {
+      resolve: 'gatsby-transformer-remark',
+      options: {
+        plugins: ['gatsby-remark-responsive-iframe'],
+      },
+    },
+    {
       resolve: 'gatsby-plugin-canonical-urls',
       options: {
         siteUrl: 'https://ardorem.tech'
