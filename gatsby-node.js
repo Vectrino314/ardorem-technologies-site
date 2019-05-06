@@ -51,8 +51,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
 
       const dir = './public/proposal'
       if (!fs.existsSync(dir)) fs.mkdirSync(dir)
-      const path = `./public${_.replace(value, '/lib', '')}.svg`
-      writePattern(path, node.frontmatter.name)
+      const path = `./public${_.replace(value, '/lib', '')}`
     }
   }
 }
