@@ -48,14 +48,7 @@ const websites = [
     location: 'Demo Website',
     type: 'Multi-Site',
     link: 'https://websitedemos.net/italian-restaurant-07'
-  },
-  {
-    name: 'Restaurant Demo Four',
-    location: 'Demo Website',
-    type: 'Single Page',
-    link: 'https://websitedemos.net/restaurant-05'
-  },
-   
+  }
 ]
 
 const FlexContainer = styled(Container).attrs({
