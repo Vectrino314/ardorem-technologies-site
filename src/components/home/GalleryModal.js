@@ -20,11 +20,42 @@ const websites = [
     link: 'https://leathermenders.com'
   },
   {
-    name: 'Light Weight Sites',
-    location: 'El Paso, TX',
+    name: 'Real Estate Demo',
+    location: 'Demo Website',
     type: 'Single Page',
-    link: 'https://lightweightsites.com'
-  }
+    link: 'https://websitedemos.net/real-estate-02'
+  },
+  {
+    name: 'Barber Shop Demo',
+    location: 'Demo Website',
+    type: 'Multi-Site',
+    link: 'https://websitedemos.net/barber-shop-01'
+  },
+  {
+    name: 'Restaurant Demo One',
+    location: 'Demo Website',
+    type: 'Single Page',
+    link: 'https://websitedemos.net/restaurant-05'
+  },
+  {
+    name: 'Restaurant Demo Two',
+    location: 'Demo Website',
+    type: 'Single Page',
+    link: 'https://websitedemos.net/restaurant-02'
+  },
+  {
+    name: 'Restaurant Demo Three',
+    location: 'Demo Website',
+    type: 'Multi-Site',
+    link: 'https://websitedemos.net/italian-restaurant-07'
+  },
+  {
+    name: 'Restaurant Demo Four',
+    location: 'Demo Website',
+    type: 'Single Page',
+    link: 'https://websitedemos.net/restaurant-05'
+  },
+   
 ]
 
 const FlexContainer = styled(Container).attrs({
