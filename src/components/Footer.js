@@ -91,6 +91,9 @@ const Pages = styled(Box)`
 
 const BottomLine = styled(Box)`
   border-top: 1px solid ${theme.colors.smoke};
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 `
 
 const Footer = ({ dark = false, children, ...props }) => (
@@ -187,6 +190,9 @@ const Footer = ({ dark = false, children, ...props }) => (
       <BottomLine mt={3}>
         <Text fontSize={1} mt={2} color="muted">
           © {new Date().getFullYear()} Website by Victor Solis
+        </Text>
+        <Text fontSize={1} mt={2} color="muted">
+          Powered by <a href="https://www.gatsbyjs.com">Gatsby.js</a>
         </Text>
       </BottomLine>
     </Container>
