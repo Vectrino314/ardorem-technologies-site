@@ -7,6 +7,8 @@ import {
   Text,
   Avatar,
   Badge,
+  Card,
+  Image,
   theme
 } from '@hackclub/design-system'
 import Sheet from 'components/Sheet'
@@ -20,13 +22,34 @@ const Base = styled(Sheet)`
   }
 `
 
+const Headshot = styled(Image)`
+  width: 100%;
+  height: auto;
+   border-radius: 8px;
+`
+
+// Make a grid of badges to illustrate all major topic i know
+
 const Bio = ({ img, name, teamRole, pronouns, text, ...props }) => (
   <Base mb={0} {...props}>
-    <Box mr={[2, 3]}>
-      <Avatar size="64px" src={img} alt={name} />
-      <Text
+    <Box mr={[2, 3]} flex flexDirection="column" align="center">
+      {/* <Avatar size="64px" src={img} alt={name} /> */}
+      <Card
+        boxShadowSize="sm"
+        // my={4}
+        // p={3}
+        width={128}
+        color="black"
+        bg="white"
+        borderRadius={2}
+      >
+        <Headshot src={img} alt={name}/>
+      </Card>
+      <Badge
+        my={1}
+        px={2}
         fontSize={1}
-        color="muted"
+        bg="warning"
         align="center"
         mt={-1}
         children={pronouns}

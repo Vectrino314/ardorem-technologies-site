@@ -62,19 +62,19 @@ export default () => (
     </Header>
     <Base px={3} py={[4, 5]}>
       <Bio
-        //img="/team/zach.jpg"
+        img="/team/Headshot.png"
         name="Victor Solis"
-        teamRole="CEO, Web/Design"
-        //text="Teaching himself how to program mobile apps and graduating Texas Tech with a bachelors in Computer Engineering..."
-        //pronouns="he/him"
+        teamRole="Web/Design, Full-Stack Dev"
+        text="Self taught software developer with a passion for IoT. Texas Tech graduate with a bachelors in Computer Engineering."
+        pronouns="CEO"
       />
-      <Bio
+      {/* <Bio
         //img="/team/max.jpg"
         name="Carlos Delgado"
         teamRole="Marketing"
         //text="Dropping out of College, Carlos took the reigns and opened a digital media business in Salt Lake City, Utah. Working as the lead marketer and web designer."
         //pronouns="he/him"
-      />
+      /> */}
       {/* <Bio
         img="/team/lachlan.jpg"
         name="Lachlan Campbell"
