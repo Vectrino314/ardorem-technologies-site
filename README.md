@@ -8,6 +8,14 @@ With my degree in Computer Engineering, I also have a heavy background in hardwa
 
 My clients consist of small business who want one page websites to fully customized product prototypes.
 
+**Current Projects Include:**
+
+-- Development of custom kiosk for open market with IoT integration
+-- Development of custom touchscreens integration for recycled vending machines
+-- Development of cryptocurrency explorer and MN hosting platform for XVICTUS coin
+-- Development of cryptocurrency market research and analysis tool using Puppeteer and webscrapping technologies
+-- Development of learning site for novice cryptocurrency enthusiasts
+
 **Below is some documentation for Gatsb.js for those interested**
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
