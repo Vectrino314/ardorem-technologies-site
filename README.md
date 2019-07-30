@@ -1,6 +1,6 @@
 # Ardorem Technologies
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/623e8052-3a80-472d-9508-d782e9b42ec5/deploy-status)](https://app.netlify.com/sites/eager-keller-6aa3cc/deploys
+[![Netlify Status](https://api.netlify.com/api/v1/badges/623e8052-3a80-472d-9508-d782e9b42ec5/deploy-status)](https://app.netlify.com/sites/eager-keller-6aa3cc/deploys)
 
 Made with the Gatsby.js starter template, this was the start of my endeavor to generate blazing-fast and SEO-ready pages for small business clients in my local area.
 
