@@ -10,11 +10,11 @@ My clients consist of small business who want one page websites to fully customi
 
 **Current Projects Include:**
 
--- Development of custom kiosk for open market with IoT integration
--- Development of custom touchscreens integration for recycled vending machines
--- Development of cryptocurrency explorer and MN hosting platform for XVICTUS coin
--- Development of cryptocurrency market research and analysis tool using Puppeteer and webscrapping technologies
--- Development of learning site for novice cryptocurrency enthusiasts
+- Development of custom kiosk for open market with IoT integration
+- Development of custom touchscreens integration for recycled vending machines
+- Development of cryptocurrency explorer and MN hosting platform for XVICTUS coin
+- Development of cryptocurrency market research and analysis tool using Puppeteer and webscrapping technologies
+- Development of learning site for novice cryptocurrency enthusiasts
 
 **Below is some documentation for Gatsb.js for those interested**
 
