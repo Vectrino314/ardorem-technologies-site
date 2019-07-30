@@ -1,3 +1,23 @@
+# Ardorem Technologies
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/623e8052-3a80-472d-9508-d782e9b42ec5/deploy-status)](https://app.netlify.com/sites/eager-keller-6aa3cc/deploys)
+
+Made with the Gatsby.js starter template, this was the start of my endeavor to generate blazing-fast and SEO-ready pages for small business clients in my local area.
+
+With my degree in Computer Engineering, I also have a heavy background in hardware ddevelopment and Internet of Things integrations.
+
+My clients consist of small business who want one page websites to fully customized product prototypes.
+
+**Current Projects Include:**
+
+- Development of custom kiosk for open market with IoT integration
+- Development of custom touchscreens integration for recycled vending machines
+- Development of cryptocurrency explorer and MN hosting platform for XVICTUS coin
+- Development of cryptocurrency market research and analysis tool using Puppeteer and webscrapping technologies
+- Development of learning site for novice cryptocurrency enthusiasts
+
+**Below is some documentation for Gatsby.js for those interested**
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
