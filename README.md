@@ -1,3 +1,13 @@
+# Ardorem Technologies
+
+Made with the Gatsby.js starter template, this was the start of my endeavor to generate blazing-fast and SEO-ready pages for small business clients in my local area.
+
+With my degree in Computer Engineering, I also have a heavy background in hardware ddevelopment and Internet of Things integrations.
+
+My clients consist of small business who want one page websites to fully customized product prototypes.
+
+**Below is some documentation for Gatsb.js for those interested**
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
