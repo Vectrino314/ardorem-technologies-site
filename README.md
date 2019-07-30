@@ -16,7 +16,7 @@ My clients consist of small business who want one page websites to fully customi
 - Development of cryptocurrency market research and analysis tool using Puppeteer and webscrapping technologies
 - Development of learning site for novice cryptocurrency enthusiasts
 
-**Below is some documentation for Gatsb.js for those interested**
+**Below is some documentation for Gatsby.js for those interested**
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
