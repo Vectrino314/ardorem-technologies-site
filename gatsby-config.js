@@ -3,6 +3,7 @@ module.exports = {
   siteMetadata: {
     title: 'Ardorem Technologies',
     description: '',
+    image: "Ardorem_Sun.svg",
     author: 'Victor Solis',
     siteUrl: 'https://ardorem.tech'
   },
