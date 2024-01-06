@@ -1,4 +1,8 @@
-# Ardorem Technologies - Web Development and IoT Solutions 🚀
+<p align="center">
+  <img src="https://d33wubrfki0l68.cloudfront.net/964193c507940d41efbb2835e1231e0580192c90/cd7a2/ardorem_sun.svg" width="150" height="150" alt="Your Logo">
+</p>
+
+<h1 align="center">Ardorem Technologies - Web and IoT Solutions 🚀</h1>
 
 Welcome to Ardorem Technologies, where innovation meets excellence in web development and Internet of Things (IoT) integrations! 👨‍💻🌐
 
