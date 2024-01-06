@@ -6,6 +6,9 @@ Welcome to Ardorem Technologies, where innovation meets excellence in web develo
 
 At Ardorem Technologies, we specialize in crafting blazing-fast and SEO-ready websites for small business clients. Our founder, equipped with a degree in Computer Engineering, brings a wealth of knowledge in both software and hardware development.
 
+## Check Out Our Site! 🌐
+Visit our website at [Ardorem Technologies](https://www.ardorem.tech/) to explore our portfolio and learn more about our services.
+
 ## Project Highlights 🌟
 
 ### Web Development
